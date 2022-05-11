@@ -1,0 +1,87 @@
+.prime {
+    color: gray;
+    background: white;
+    width: 109px;
+    height: 136px;
+    border: dashed #d5d3d3;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.dropzone {
+    width: 468px;
+    height: 200px;
+    border-radius: 0.4rem;
+    position: relative;
+    z-index: 0;
+    border: 2px dashed #eef0f2;
+}
+
+.historias {
+    position: relative;
+    background: white;
+    width: 109px;
+    height: 136px;
+    border-radius: 6px;
+}
+
+.imag {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+}
+
+.text {
+    color: white;
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
+
+.txt {
+    color: gray;
+    ;
+    position: absolute;
+    top: 55px;
+    left: 25px;
+}
+
+.txtplus {
+    color: gray;
+    ;
+    position: absolute;
+    top: 25px;
+    left: 58px;
+}
+
+.port {
+    height: 10px;
+}
+
+#profile {
+    width: 36px;
+    height: 38px;
+    background-image: url(zap.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.perfil {
+    width: 36px;
+    height: 38px;
+    border-radius: 6px;
+}
+
+.pp {
+    width: 64px;
+    height: 64px;
+}
+
+.post {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.boton {
+    background-color: #eef0f2;
+}
